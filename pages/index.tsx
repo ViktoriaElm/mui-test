@@ -1,7 +1,9 @@
+import Button from '@mui/material/Button';
+
 export default function Home() {
   return (
     <>
-     Hello MUI
+     <Button variant="contained">Contained</Button>
     </>
   )
 }
