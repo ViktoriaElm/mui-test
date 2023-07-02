@@ -1,9 +1,9 @@
-import Button from '@mui/material/Button';
+import ScrollTop from '../components/ScrollTop';
 
 export default function Home() {
   return (
     <>
-     <Button variant="contained">Contained</Button>
+      <ScrollTop /><br />
     </>
   )
 }
